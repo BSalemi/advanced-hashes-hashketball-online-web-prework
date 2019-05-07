@@ -189,7 +189,7 @@ def big_shoe_rebounds
             shoe_size = value[:shoe]
             rebounds = value[:rebounds]
             binding.pry
-          end 
+          end
         end
       end
     end
