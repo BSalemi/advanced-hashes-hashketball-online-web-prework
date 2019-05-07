@@ -194,6 +194,4 @@ def big_shoe_rebounds
       end
     end
   end
-  shoe_sizes.sort.reverse
-  biggest_shoe = shoe_sizes[0]
 end
